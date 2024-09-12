@@ -1,0 +1,114 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.photo{
+    width: 100%;
+    height: 300px;
+}
+
+.blok{
+    display: block;
+    width: 70%;
+    height: 120px;
+    background-color: rgba(0, 0, 0, 0.8);
+    color: #fff;
+    position: absolute;
+    top: 0;
+    margin: 10px;
+    
+}
+
+p{
+    margin: 10px;
+    font-size: 25px;
+}
+
+.paris{
+    font-size: 50px;
+    margin: 10px;
+}
+
+.flag{
+    width: 30px;
+}
+
+.bloc{
+    width: 100%;
+    height: 400px;
+    background-color: rgba(0, 0, 0, 0.2);
+    border-radius: 16px;
+    
+}
+
+h1{
+    margin: 10px;
+    padding: 10px;
+    color: rgb(7, 16, 94);
+}
+
+.div{
+    width: 96%;
+    height: 100px;
+    background-color: #fff;
+    margin: 10px;
+    border-left: 4px solid rgb(9, 4, 75);
+}
+
+.cec{
+    font-size: 20px;
+    position: absolute;
+    left: 9.5px;
+    bottom: 15px;
+}
+
+.aa{
+    position: absolute;
+    left: 9.5px;
+    bottom: 125px;
+}
+
+.cc{
+    position: absolute;
+    left: 9.5px;
+    bottom: -95px;
+}
+
+.gos{
+    width: 70px;
+    margin: 15px;
+    margin-top: 28px;
+}
+
+.text{
+    position: absolute;
+    bottom: 95px;
+    left: 110px;
+}
+
+.a2{
+    position: absolute;
+    bottom: -10px;
+    left: 110px;
+}
+
+.a3{
+    position: absolute;
+    bottom: -120px;
+    left: 110px;
+}
+
+.mehmon{
+    font-size: 20px;
+    color: rgba(0, 0, 0, 0.6);
+}
+
+.nav{
+    font-size: 18px;
+    color: rgba(0, 0, 100, 0.9);
+}
+
+a{
+    color: rgb(0, 150, 255);
+}
